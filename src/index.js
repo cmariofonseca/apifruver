@@ -11,3 +11,5 @@ app.use(require('./routes/provider_route'));
 
 app.listen(3000);
 console.log('Server on port 3000');
+
+/* INICIAR CON npm run dev */
